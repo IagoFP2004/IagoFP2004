@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">•📫 Mi emal iagofranciscoperez@gmail.com</p>
+<p align="left">•📫 Mi email iagofranciscoperez@gmail.com</p>
 
 ###
 
