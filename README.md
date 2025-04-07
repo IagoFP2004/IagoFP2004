@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">• Studying at the IES Pazo da Mercé 2DAW📖</p>
+<p align="left">• 📖 student in the the IES Pazo da Mercé 2DAW</p>
+
+###
+
+<p align="left">•📫 Mi emal iagofranciscoperez@gmail.com</p>
 
 ###
 
