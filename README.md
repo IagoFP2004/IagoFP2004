@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">¡Hola! Soy Iago Francisco Pérez, un apasionado desarrollador web con experiencia en la creación de sitios web modernos y funcionales.<br><br>Hi! I'm Iago Francisco Pérez, a passionate web developer with experience creating modern and functional websites.<br><br>I love transforming ideas into engaging and efficient digital experiences. I'm always looking to learn new technologies and improve my skills. <br><br>Explore my portfolio to see some of my featured projects: https://iagofp2004.github.io/</p>
+<p align="left">Hello! I'm Iago Francisco Pérez, a passionate web developer with experience creating modern and functional websites.<br><br>I love transforming ideas into engaging and efficient digital experiences. I'm always looking to learn new technologies and improve my skills.<br><br>Explore my portfolio to see some of my featured projects: https://iagofp2004.github.io/</p>
 
 ###
 
